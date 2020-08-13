@@ -301,7 +301,7 @@ In alternativa alle scorciatoie di tastiera, tutte le funzioni di Greenshot sono
      <resource name="WindowCaptureMode.AeroTransparent">Mantieni trasparenza</resource>
      <resource name="WindowCaptureMode.Auto">Automaticamente</resource>
      <resource name="WindowCaptureMode.GDI">Usa i colori predefiniti</resource>
-     <resource name="WindowCaptureModes.Screen">Come visualizzata</resource>
+     <resource name="WindowCaptureMode.Screen">Come visualizzata</resource>
 
     <!-- 1.2 -->
     <resource name="editor_dropshadow_darkness">Intensità ombra</resource>
